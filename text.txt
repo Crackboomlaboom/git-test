@@ -1,1 +1,3 @@
-This is my first fil:
+This is my first files and i will be making sure that i get the best out of git
+
+This is my second change for the file
